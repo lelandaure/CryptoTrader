@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "283307013393",
+    "firebase_url": "https://crypto-trader-84214.firebaseio.com",
+    "project_id": "crypto-trader-84214",
+    "storage_bucket": "crypto-trader-84214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283307013393:android:313f1291eccfee47ca48b0",
+        "android_client_info": {
+          "package_name": "com.lel.crypto_trader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283307013393-dda80aidnabjtuglfdonqcqjt3l4lhte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRa_ZPCXUbYOJN3TtQ3LfXBLDT1DR5HCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283307013393-dda80aidnabjtuglfdonqcqjt3l4lhte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283307013393:android:5d8fb729b8f67136ca48b0",
+        "android_client_info": {
+          "package_name": "com.lel.cryptotrader_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283307013393-st4ccc2s6s8h4u3t9m3qb3su2iv368sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lel.cryptotrader_firebase",
+            "certificate_hash": "b470a5cd8133babe15d61c1c1cf4b49c5c726a15"
+          }
+        },
+        {
+          "client_id": "283307013393-dda80aidnabjtuglfdonqcqjt3l4lhte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRa_ZPCXUbYOJN3TtQ3LfXBLDT1DR5HCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283307013393-dda80aidnabjtuglfdonqcqjt3l4lhte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283307013393:android:bad45491814c0cf2ca48b0",
+        "android_client_info": {
+          "package_name": "com.lel.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283307013393-dda80aidnabjtuglfdonqcqjt3l4lhte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRa_ZPCXUbYOJN3TtQ3LfXBLDT1DR5HCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283307013393-dda80aidnabjtuglfdonqcqjt3l4lhte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283307013393:android:cf5f77fdf48d2c25ca48b0",
+        "android_client_info": {
+          "package_name": "com.platzi.android.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283307013393-dda80aidnabjtuglfdonqcqjt3l4lhte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRa_ZPCXUbYOJN3TtQ3LfXBLDT1DR5HCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283307013393-dda80aidnabjtuglfdonqcqjt3l4lhte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
